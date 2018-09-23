@@ -51,7 +51,7 @@
                     </div>
                     <div class="col txt ">
                         <p class="white phone">
-                            <a class="white" href="https://wa.me/7774827912">777 482 7912</a><br>
+                            <a class="white" href="https://wa.me/7772692125">777 269 2125</a><br>
                         </p>
                     </div>
                 </div>
