@@ -57,8 +57,8 @@ echo "<section id ='shiny-template'>";
                  <a href="#contacto" class="btn-brown">¡Saber más!</a>
             </div>
             <div class="col">
-                <div class="relative-top">
-                    <img id="expand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/expand.jpg" alt="Nutrióloga">
+                <div class="relative-top fcentered">
+                    <img id="expand" src="<?php echo get_stylesheet_directory_uri(); ?>/img/home/expand.png" alt="Misión">
                 </div>
             </div>
         </div>

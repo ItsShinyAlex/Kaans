@@ -107,7 +107,7 @@
 }
 #shiny-template .pork .realtive-top {
   position: relative;
-  top: 18px;
+  top: 0px;
 }
 #shiny-template .pork .flex .col {
   flex-direction: column !important;
@@ -455,6 +455,9 @@
   content: "";
   z-index: -1;
 }
+#shiny-template #bodyb {
+  padding-top: 40px;
+}
 #shiny-template #bodyb .flex {
   padding-top: 70px;
 }
@@ -474,7 +477,7 @@
   padding-top: 5px;
 }
 #shiny-template #bodyb .relative-top {
-  top: 100px;
+  top: 0px;
 }
 #shiny-template #bodyb a {
   font-size: 30px;
@@ -484,7 +487,8 @@
   color: lightgoldenrodyellow;
 }
 #shiny-template #consultas #expand {
-  width: 90%;
+  width: 70%;
+  margin-bottom: 40px;
 }
 #shiny-template #consultas .btn-brown:hover {
   background-color: #6d0000;
@@ -498,7 +502,7 @@
 #shiny-template #queremos .relative-top,
 #shiny-template #consultas .relative-top {
   position: relative;
-  top: 30px;
+  top: 0px;
 }
 #shiny-template #queremos .col-txt,
 #shiny-template #consultas .col-txt {
@@ -861,7 +865,7 @@
 #shiny-template #clock .relative-top,
 #shiny-template #money .relative-top {
   position: relative;
-  top: 25px;
+  top: 0px;
 }
 #shiny-template #resultado,
 #shiny-template #clock {
@@ -899,7 +903,7 @@
 #shiny-template #no-en .relative-top,
 #shiny-template #money-brown .relative-top,
 #shiny-template #money .relative-top {
-  top: 70px;
+  top: 0px;
 }
 #shiny-template #howtopay {
   background-color: white;
@@ -1041,7 +1045,7 @@
 }
 #shiny-template #queremos .relative-top {
   position: relative;
-  top: 38px;
+  top: 0px;
 }
 #shiny-template #vision,
 #shiny-template #mision {
@@ -1382,24 +1386,18 @@
     padding: 20px 36px;
     font-size: 20px;
   }
+  #shiny-template #slider-home p {
+    font-size: 13px !important;
+  }
   #shiny-template #slider-home h2 {
-    font-size: 32px !important;
-    line-height: 40px !important;
+    font-size: 18px !important;
+    line-height: 20px !important;
   }
   #shiny-template #slider-home h2 .small {
-    font-size: 22px !important;
+    font-size: 16px !important;
   }
   #shiny-template #slider-home h2 .big {
-    font-size: 40px !important;
-  }
-  #shiny-template #slider-home .w-box {
-    margin-bottom: 0px;
-    width: 100%;
-  }
-  #shiny-template #slider-home .w-box p {
-    font-size: 18px !important;
-    line-height: 120%;
-    padding: 15px;
+    font-size: 20px !important;
   }
   #shiny-template .fcentered {
     display: flex;

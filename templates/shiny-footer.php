@@ -11,7 +11,7 @@
                 </h2>
                 
                 <p class="pad-top">
-                    Coméntanos cualquier duda que tengas y un profesional de proveerá una respuesta:
+                    Coméntanos cualquier duda que tengas y un profesional te proveerá una respuesta:
                 </p>
                 
                 <div id="mail-cols" class="flex">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="col txt ">
                         <p class="white phone">
-                            <a class="white" href="https://wa.me/7772692125">777 269 2125</a><br>
+                            <a class="white" href="https://wa.me/7774644423">777 464 4423</a><br>
                         </p>
                     </div>
                 </div>
